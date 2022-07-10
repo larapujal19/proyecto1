@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #eac926;
+}
+
+
+header #logo1 {
+    width: 40%;
+    margin: 10px 0 10px 20px;
+}
+
+
+#buscador_input {
+    margin: 10px 10px 10px 20px;
+    line-height: 21px;
+}
+
+#boton_lupa {
+    display: flex;
+    height: 35px;
+    align-items: center;
+    width: 35px;
+    margin-left: 20px;
+    padding-left: 5px;
+}
+
+.burger-menu {
+    display: flex;
+    justify-content: center;
+}
+
+.burger-menu i {
+    background-color: #1259c3;
+    color: white;
+    font-size: 28px;
+    padding: 10px;
+    border-radius: 15%;
+}
+
+.titulo2 {
+    font-size: 1em;
+    font-weight: 400;
+}
+
+#cuotas {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 12px;
+}
+
+.precios {
+    font-size: 18px;
+}
+
+.descuentos {
+    font-size: 16px;
+}
+
+.descripcion { 
+    font-size: 16px;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer .section_footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    width: 55%;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+
+.fa-solid, .titulo_footer, .parrafo_footer {
+    text-align: center;
+    
+}
+
+.fa-solid {
+    color: #03264c;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.titulo_footer, .parrafo_footer {
+    color: #666;
+}
+
+
+.fa-hand-holding-dollar {
+    color: black;
+    font-size: 1em;
+}
+
+.fa-id-card, .fa-right-to-bracket, .fa-basket-shopping {
+    color: black;
+    font-size: 1em;
+    margin-left: 5px;
+}
+
+li {
+    list-style: none;
+}
+
+.links_gral {
+    text-decoration: none;
+    color: black;
+}
+
+.fa-magnifying-glass {
+    margin-top: 10px;
+}
+
+.fa-magnifying-glass {
+    font-size: 1.5em;
+}
+
+nav, ul {
+    padding-left: 0px;
+}
